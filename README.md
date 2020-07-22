@@ -4,6 +4,8 @@
 
 **한빛미디어 - Builing_Microservices (샘 뉴먼 지음, 정성권 옮김) 읽으며 정리한 Repo입니다.**
 
+<img width="320" alt="image-20200722002422422" src="https://user-images.githubusercontent.com/49120090/88073946-bedc9b00-cbb1-11ea-8a3b-825ccd14a676.png">
+
 ## 주제
 
 ### 1 장 마이크로 서비스
